@@ -1,4 +1,4 @@
-# CourierManagementSystem
+# CourierManagementSystem📦📪📪📮
 # Courier Management System (CMS)
 
 ## Overview
@@ -37,5 +37,5 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/courier-management-system.git
+   git clone https://github.com/Medhanshalok/CourierManagementSystem
    cd courier-management-system
